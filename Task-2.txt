@@ -1,0 +1,24 @@
+1. Document Object:
+   The `document` object represents the web page itself, which includes the entire HTML structure and the DOM (Document Object Model) of the page. It provides an interface for interacting with the content within the web page. The `document` object allows you to manipulate and access various elements, attributes, and content of the page. For example, you can use it to:
+   - Access and modify HTML elements, attributes, and content.
+   - Create, append, and remove elements from the DOM.
+   - Change styles and classes of elements.
+   - Handle events such as clicks and keypresses.
+   - Manipulate forms and form elements.
+
+
+2. Window Object:
+   The `window` object represents the browser window or tab in which the web page is being displayed. It acts as a global object for the browser's environment and provides methods and properties to manage and interact with the browser itself and its features. The `window` object can be used to:
+   - Navigate the browser to different URLs.
+   - Open new browser windows or tabs.
+   - Manipulate the browser's history (back and forward).
+   - Control the dimensions and position of the browser window.
+   - Set timeouts and intervals for executing JavaScript code.
+   - Access browser-related information such as screen dimensions and user agent.
+
+
+In summary,
+
+*the (document) object is focused on the content and structure of the web page, allowing you to manipulate and interact with elements and their attributes.
+ 
+*while the (window) object provides control over the browser environment itself, enabling actions like navigation, opening new windows, and setting timeouts.
